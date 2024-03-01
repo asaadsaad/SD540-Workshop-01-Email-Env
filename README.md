@@ -13,4 +13,4 @@ The output folder has 31 thumbnails.
 Generated 0 new thumbnails. 
 ```
 Use the [dotenv](https://www.npmjs.com/package/dotenv) module to save environment variables.  
-Use the [@sendgrid/mail](https://www.npmjs.com/package/@sendgrid/mail) module and integrate it to send the status email.
+Use the [@sendgrid/mail](https://www.npmjs.com/package/@sendgrid/mail) module and integrate it with your application to send the status email.
